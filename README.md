@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hola Devs! 👋
+# Hola Devs! 👋
 I'm Laxmipati
 
 📍 I am a Full Stack Developer from India, passionate about building scalable web applications and AI-based solutions. I enjoy exploring new technologies and continuously improving my problem-solving skills.
