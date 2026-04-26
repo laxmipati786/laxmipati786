@@ -1,5 +1,24 @@
 # 💫 About Me:
-👋 Hi, I'm Laxmipati<br>🚀 Full Stack Developer | AI Enthusiast | Problem Solver<br>💫 About Me<br>🎓 B.Tech CSE student passionate about building real-world applications<br>💡 Strong interest in AI systems, web development, and scalable solutions<br>🧠 Problem solver with focus on Data Structures & Algorithms<br>🌱 Continuously learning and exploring modern technologies<br>🔭 Current Work<br>🚀 Developing scalable MERN stack applications<br>🤖 Building an AI Resume Analyzer (NLP-based)<br>🌱 Currently Learning<br>⚡ Advanced Java & Data Structures & Algorithms<br>🔥 System Design & Backend Optimization<br>💼 Projects<br>🧠 AI Resume Analyzer<br>→ ATS scoring, skill extraction, and matching using NLP<br>🍔 Food Delivery Web App<br>→ Full-stack MERN application with authentication & cart system<br>🛠️ Tech Stack<br><br>Languages:<br>C | C++ | Java | Python | JavaScript | PHP<br><br>Frontend:<br>HTML | CSS | React.js | Tailwind CSS<br><br>Backend:<br>Node.js | Express.js<br><br>Database:<br>MongoDB | MySQL<br><br>📊 What I Do<br><br>🔍 Solve real-world problems using code<br>⚡ Build scalable full-stack applications<br>📈 Optimize performance and system logic<br><br>⚡ Fun Fact<br>🍦 I enjoy coding with ice cream — it keeps my ideas cool 😎<br>👉 Buy Me a Coffee
+Hola Devs! 👋
+I'm Laxmipati
+
+📍 I am a Full Stack Developer from India, passionate about building scalable web applications and AI-based solutions. I enjoy exploring new technologies and continuously improving my problem-solving skills.
+
+💻 Some of the technologies I work with include MERN Stack, Java, and AI/NLP-based systems.
+
+🔭 What I’m Working On
+Building full-stack web applications using MERN stack
+Developing an AI Resume Analyzer (NLP-based)
+🌱 What I’m Learning
+Advanced Java & Data Structures
+System Design & Backend Optimization
+📫 Reach Me
+
+👉 https://www.linkedin.com/in/laxmipatibalaji22
+
+⚡ Fun Fact
+
+🍦 I love coding with ice cream — it keeps my code cool 😎
 
 
 ## 🌐 Socials:
